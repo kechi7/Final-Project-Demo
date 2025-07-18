@@ -10,10 +10,10 @@
 </div>
 
 <style>
-  * {
+  /* * {
     height: 100vh;
     width: 100vh;
-  }
+  } */
   .title-card {
     background-color: blue;
     height: 100vh;

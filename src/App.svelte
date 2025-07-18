@@ -15,7 +15,6 @@
   <RightAlignedExample />
   <LeftAlignedExample />
   <ImageExample />
-
   <IntersectionObserverSectionCard />
   <InteresectionObserverBasicExample />
   <IntersectionObserverAlertExample />
