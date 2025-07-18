@@ -15,15 +15,15 @@
     width: 100vh;
   } */
   .title-card {
-    background-color: blue;
+    background-image: url("/Users/nkechi7/Final-Project-Demo/src/lib/Images/Main1.png");
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 2rem;
+    /* padding: 2rem; */
     box-sizing: border-box;
-    font-family: "Inter", sans-serif;
+    /* font-family: "Inter", sans-serif; */
   }
 
   .content {
