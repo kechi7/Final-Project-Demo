@@ -14,32 +14,45 @@
     height: 100vh;
     width: 100vh;
   } */
+
+
   .title-card {
-    background-image: url("/Users/nkechi7/Final-Project-Demo/src/lib/Images/Main1.png");
+    background-image: url("/Users/nkechi7/Final-Project-Demo/src/lib/Images/Main4.webp");
+    /* Add the blur effect */
+
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     /* padding: 2rem; */
-    box-sizing: border-box;
-    /* font-family: "Inter", sans-serif; */
+    /* box-sizing: border-box; */
   }
 
   .content {
-    max-width: 700px;
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    padding: 10px;
+    /* max-width: 700px;
     background-color: #034c36;
     padding: 2rem;
     border: 6px solid #e3ff00;
     border-radius: 2rem;
-    box-shadow: 16px 16px #188f70;
+    box-shadow: 16px 16px #188f70; */
   }
 
   h1 {
-    font-size: 3rem;
+    font-size: 4rem;
     margin: 0;
-    color: #e3ff00;
-    text-shadow: 1px 1px 0 #007052;
+    color: #f1f1f1;
+    text-shadow: 1px 1px 0 black;
   }
 
   p {
