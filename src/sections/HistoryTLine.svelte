@@ -23,13 +23,12 @@
       <h1>The wealth gap didn’t just happen. It was built.</h1>
       <p>
         The United States has a long history of systemic violence. Historically,
-        we have implemented systems, such as slavery, in which human life has
-        been reduced to economic gain. While it is evident that we continue to
+       systems, such as slavery, has reduced human life to tokens for economic gain. While it is evident that we continue to
         progress towards positive change as a society, one truth still remains:
+
         the divisive systems of the past are never fully abolished, yet have
         evolved to work in our current socioeconomic climate. Specifically,
-        policies like redlining, which have stemmed from decades, have
-        perpetuated unequal access to education, subsequent job discrimination,
+        policies like redlining have perpetuated unequal access to education, subsequent job discrimination,
         and exclusion from wealth-building tools like home ownership, and have
         systematically shut Black communities out of opportunities for
         generations.
