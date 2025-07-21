@@ -4,6 +4,7 @@
   import ImageExample from "./sections/ImageExample.svelte";
   import TitleSection from "./sections/TitleSection.svelte";
   import IntroFadein from "./sections/IntroFadein.svelte";
+  import TimeLine from "./sections/HistoryTLine.svelte";
   import InteresectionObserverBasicExample from "./sections/InteresectionObserverBasicExample.svelte";
   import IntersectionObserverAlertExample from "./sections/IntersectionObserverAlertExample.svelte";
   import DisappearingDuckExample from "./sections/DisappearingDuckExample.svelte";
@@ -14,6 +15,7 @@
 <main>
   <TitleSection />
   <IntroFadein/>
+  <TimeLine/>
   <RightAlignedExample />
   <LeftAlignedExample />
   <ImageExample />
