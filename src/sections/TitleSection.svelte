@@ -3,7 +3,7 @@
 
   const title = "Between The Lines";
   const subtitle =
-    "How Red Lining Shapes Wealth, Perception, and Compassion in America";
+    "How Red Lining Shaped Wealth, Perception, and Compassion in America";
 </script>
 
 <TitleCard {title} {subtitle} />
