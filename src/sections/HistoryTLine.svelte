@@ -184,10 +184,10 @@
     background-color: rgb(100, 9, 9);
   }
 
-  .scroller section {
-    margin-bottom: 50vh; /* Creates space between scroll items */
-    max-width: 600px;
-  }
+  /* .scroller section { */
+    /* margin-bottom: 50vh; Creates space between scroll items */
+    /* max-width: 600px; */
+  /* } */
 
   .scroller h3 {
     margin-bottom: 1rem;

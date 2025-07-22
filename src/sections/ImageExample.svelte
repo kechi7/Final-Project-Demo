@@ -6,7 +6,7 @@
 <div>
     <Scroller layout="right">
         {#snippet sticky()}
-            <img class="duck-img" src="duck.png" alt="KWK rubber duck!" />
+            <img class="duck-img" src="/Users/nkechi7/Final-Project-Demo/src/lib/Images/Main2.png" alt="KWK rubber duck!" />
         {/snippet}
 
         {#snippet scrolly()}
